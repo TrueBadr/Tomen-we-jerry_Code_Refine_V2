@@ -1,0 +1,16 @@
+# Back-Of-The-Envelope Estimation
+- Let's suppose:
+  - Total Users = 1 Million
+  - DAU = 100,000
+  - Requests/User/Day = 20
+- Requests/Day
+  -  100,000 × 20 = 2,000,000
+- Average QPS
+  - 2,000,000 / 86,400 =  23 QPS
+- Peak QPS
+  - 23 × 10 = 230 QPS
+- Let's suppose:
+  - 500,000 CVs are uploaded
+  - Average CV size = 2 MB
+- CV Storage
+  - 500,000 × 2 MB = 1,000,000 MB =  1,000 G = 1 TB
