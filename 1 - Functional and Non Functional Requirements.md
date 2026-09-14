@@ -16,7 +16,7 @@
 * Availability
 * Reliability
 * Scalability
-* Consistency: The system must maintain data consistency and prevent duplicate or conflicting applications.
+* Consistency : The system must maintain data consistency and prevent duplicate or conflicting applications.
 * Security and Privacy
 * Usability
 * Observability
